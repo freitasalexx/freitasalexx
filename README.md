@@ -1,3 +1,5 @@
+### Alexander Freitas — Engenheiro de software & IA aplicada
+
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  PERFIL — Alexander Freitas · paleta inspirada no Claude/Anthropic ║ -->
 <!-- ║  github.com/freitasalexx · profile README (capa do perfil)         ║ -->
