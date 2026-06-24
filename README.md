@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191919,50:C15F3C,100:D4A27F&height=200&section=header&text=Alexander%20Freitas&fontSize=46&fontColor=F4F3EE&fontAlignY=38&desc=Engenheiro%20de%20software%20%26%20IA%20aplicada&descSize=18&descAlignY=60&descColor=F4F3EE" alt="Alexander Freitas" />
 
 <div align="center">
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C15F3C&center=true&vCenter=true&width=620&lines=Engenheiro+full-stack+%2B+growth+engineering;Do+e-commerce+%C3%A0+IA%3A+builder+desde+2020;Agentes+de+IA+e+orquestra%C3%A7%C3%A3o+de+LLMs;Sistemas+serverless+na+edge+da+Cloudflare;Scrapers%2C+CRMs+e+automa%C3%A7%C3%A3o+de+leads;Validado+antes+de+dar+por+pronto.)](https://github.com/freitasalexx)
 
 ![Disponível para projetos](https://img.shields.io/badge/%E2%97%8F%20Dispon%C3%ADvel%20para%20projetos%20%26%20parcerias-2ea043?style=flat-square)
