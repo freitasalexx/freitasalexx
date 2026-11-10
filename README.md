@@ -1,21 +1,21 @@
-### Alexander Freitas — Engenheiro de software & IA aplicada
+### Alexander Freitas · Engenheiro de software, tráfego pago e IA aplicada
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PERFIL — Alexander Freitas · paleta inspirada no Claude/Anthropic ║ -->
+<!-- ║  PERFIL · Alexander Freitas · paleta inspirada no Claude/Anthropic ║ -->
 <!-- ║  github.com/freitasalexx · profile README (capa do perfil)         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191919,50:C15F3C,100:D4A27F&height=200&section=header&text=Alexander%20Freitas&fontSize=46&fontColor=F4F3EE&fontAlignY=38&desc=Engenheiro%20de%20software%20%26%20IA%20aplicada&descSize=18&descAlignY=60&descColor=F4F3EE" alt="Alexander Freitas" />
 
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C15F3C&center=true&vCenter=true&width=620&lines=Engenheiro+full-stack+%2B+growth+engineering;Do+e-commerce+%C3%A0+IA%3A+builder+desde+2020;Agentes+de+IA+e+orquestra%C3%A7%C3%A3o+de+LLMs;Sistemas+serverless+na+edge+da+Cloudflare;Scrapers%2C+CRMs+e+automa%C3%A7%C3%A3o+de+leads;Validado+antes+de+dar+por+pronto.)](https://github.com/freitasalexx)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C15F3C&center=true&vCenter=true&width=620&lines=Engenheiro+full-stack+%2B+growth+engineering;Tr%C3%A1fego+pago+no+Meta+e+no+Google+Ads;Sistemas+serverless+na+edge+da+Cloudflare;Agentes+de+IA+e+automa%C3%A7%C3%A3o+de+ponta+a+ponta;Do+e-commerce+%C3%A0+IA%3A+builder+desde+2020;Validado+antes+de+dar+por+pronto.)](https://github.com/freitasalexx)
 
 ![Disponível para projetos](https://img.shields.io/badge/%E2%97%8F%20Dispon%C3%ADvel%20para%20projetos%20%26%20parcerias-2ea043?style=flat-square)
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=freitasalexx&label=Profile%20views&color=C15F3C&style=flat-square" alt="views" />
 
-[![Email](https://img.shields.io/badge/Email-C15F3C?style=flat-square&logo=gmail&logoColor=white)](mailto:junio.alexander@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-C15F3C?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@grupomarfre.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandermarcalfreitas)
 [![Site](https://img.shields.io/badge/Site-191919?style=flat-square&logo=googlechrome&logoColor=white)](https://grupomarfre.com.br)
 
@@ -25,13 +25,13 @@
 
 <div align="center">
 
-### `>` construo automação fim-a-fim, com IA na camada de decisão
+### `>` construo automação fim a fim, com IA na camada de decisão
 
 </div>
 
-Desenvolvedor full-stack com foco em **growth engineering** e **IA aplicada** — a interseção entre código, web, automação e geração de receita. **Formado em Engenharia de Controle e Automação**, hoje cursando **pós-graduação em Gestão de Projetos**, e tocando uma operação freelancer ponta a ponta (o **Grupo Marfre**), onde projeto, codifico e mantenho no ar sistemas reais.
+Desenvolvedor full-stack com foco em **growth engineering** e **IA aplicada**: a interseção entre código, mídia paga, automação e geração de receita. **Formado em Engenharia de Controle e Automação**, hoje cursando **pós-graduação em Gestão de Projetos**, e à frente do **Grupo Marfre**, onde projeto, codifico e mantenho no ar os sistemas, os sites e as campanhas dos clientes.
 
-Sites de alta performance, painéis serverless, agentes conversacionais, pipelines de mídia e até trading quantitativo — peças diferentes, mesma engenharia: **costurar APIs, modelos e infra para entregar produto**. Pragmático: a solução mínima que resolve, mudanças cirúrgicas, e cada coisa validada antes de chamar de pronta.
+Sites de alta performance, painéis serverless, contas de anúncio monitoradas por código, sistemas de gestão, pipelines de mídia e trading quantitativo: peças diferentes, mesma engenharia. **Costurar APIs, modelos e infra para entregar produto.** Pragmático: a solução mínima que resolve, mudanças cirúrgicas, e cada coisa validada antes de chamar de pronta.
 
 <br/>
 
@@ -40,19 +40,32 @@ Sites de alta performance, painéis serverless, agentes conversacionais, pipelin
 ```text
 2020 ──▶ e-commerce & dropshipping de eletrônicos importados (Xiaomi)
 2024 ──▶ engenharia de software, automação & IA aplicada (Grupo Marfre)
+2026 ──▶ agência: tráfego pago, sites e sistemas para negócios locais
 ```
 
 Comecei no mercado digital em **2020**, com uma operação de **e-commerce / dropshipping de eletrônicos importados da China** (majoritariamente Xiaomi). Foi aí que aprendi, na prática e em escala, o que hoje sustenta meu trabalho técnico:
 
-- 🛒 **Lojas virtuais & checkout** — construí lojas em **Shopify** (e outras plataformas), integrando **checkout e gateways de pagamento** ponta a ponta.
-- 📈 **Tráfego pago avançado** — gestão de campanhas em **Google Ads** e **Meta Ads** em nível avançado, otimizando aquisição e ROI.
-- 🚀 **Escala real** — **milhares de clientes reais** e faturamento consistente de **6 dígitos mensais** por vários meses seguidos.
+- 🛒 **Lojas virtuais & checkout**: construí lojas em **Shopify** (e outras plataformas), integrando **checkout e gateways de pagamento** ponta a ponta.
+- 📈 **Tráfego pago avançado**: gestão de campanhas em **Google Ads** e **Meta Ads** em nível avançado, otimizando aquisição e ROI.
+- 🚀 **Escala real**: **milhares de clientes reais** e faturamento consistente de **6 dígitos mensais** por vários meses seguidos.
 
-Essa base de **vendas, conversão e operação em escala** é o que dá ao meu código um viés de **growth engineering** — não escrevo software no vácuo; escrevo software que precisa **vender, converter e rodar em produção**.
+Essa base de **vendas, conversão e operação em escala** é o que dá ao meu código um viés de **growth engineering**. Não escrevo software no vácuo: escrevo software que precisa **vender, converter e rodar em produção**.
+
+Hoje o Grupo Marfre atende restaurantes e deliveries, clínicas, escritórios de advocacia, escolas e prestadores de serviço, com **tráfego pago no Meta e no Google Ads**, **sites**, **SEO** e **sistemas sob medida**.
 
 <br/>
 
-## 🤖 IA — Agentes & Orquestração de LLMs
+## 📈 Tráfego pago com engenharia
+
+Gestão de contas **Meta Ads** e **Google Ads** (MCC) com a medição feita por código, não por print:
+
+- **Coleta automática** das contas a cada 30 minutos num Worker da Cloudflare com cron, com **painel por cliente** e alertas.
+- **Monitor semanal e relatório mensal** gerados por script, cruzando Meta e Google.
+- **Tracking de ponta a ponta**: pixel, Conversions API, GA4 e GTM, com a conversão conferida contra o dado real do cliente.
+
+<br/>
+
+## 🤖 IA: agentes & orquestração de LLMs
 
 <div align="center">
 
@@ -64,17 +77,17 @@ Essa base de **vendas, conversão e operação em escala** é o que dá ao meu c
 
 </div>
 
-Não me limito a *chamar uma API de LLM* — construo **camadas de decisão, ferramentas e fallback ao redor do modelo**:
+Não me limito a *chamar uma API de LLM*: construo **camadas de decisão, ferramentas e fallback ao redor do modelo**.
 
 | | |
 |---|---|
-| 🛠️ **Agentes com _tool-use_ de verdade** | Recepcionista IA em Node.js com **Claude function calling** (consultar agenda, agendar, notificar) em produção — com modo *mock* e handoff humano (LGPD) |
-| 🧩 **Orquestração multi-agente** | Camada estratégica em **LangGraph** (analistas → bull/bear → trader → risco) que vira viés persistido em estado compartilhado |
+| 🧠 **Framework operacional próprio** | Skills, memória em Markdown, hooks e gates determinísticos que rodam a operação inteira do Grupo Marfre com agentes de código |
 | 🔌 **Multi-provider por padrão** | Abstração sobre **Claude, OpenAI, DeepSeek, Gemini, Groq e Ollama local**, com degradação limpa quando falta chave |
-| 🧠 **Memória entre sessões** | Markdown + checkpoint SQLite que reduz tokens e mantém *skills* reutilizáveis — base do meu framework operacional **MazyOS** |
 | 🎙️ **Pipelines de mídia por IA** | Roteiro por LLM → **TTS PT-BR** (ElevenLabs/edge-tts) → legendagem por **Whisper** → render por código |
+| 🧩 **Orquestração multi-agente** | Camada estratégica em **LangGraph** (analistas → bull/bear → trader → risco) que vira viés persistido em estado compartilhado |
+| 🛠️ **Agentes com _tool-use_** | Recepcionista IA em Node.js com **Claude function calling** (consultar agenda, agendar, notificar), com modo *mock* e handoff humano (LGPD) |
 
-> 💬 **Honesto sobre maturidade:** parte é **produção** (recepcionista IA, pipelines de mídia, publicação multi-rede), parte é **P&D**. Sem inflar.
+> 💬 **Honesto sobre maturidade:** parte é **produção** (framework operacional, pipelines de mídia, publicação multi-rede), parte é **P&D** (recepcionista IA, orquestração multi-agente). Sem inflar.
 
 <br/>
 
@@ -92,6 +105,7 @@ Não me limito a *chamar uma API de LLM* — construo **camadas de decisão, fer
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Workers](https://img.shields.io/badge/Workers%20%26%20KV-F6821F?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=000000)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=remotion&logoColor=white)
@@ -117,13 +131,13 @@ Não me limito a *chamar uma API de LLM* — construo **camadas de decisão, fer
 ### 🌐 Web + SEO programático
 Sites estáticos na **edge da Cloudflare**, ~95+ no PageSpeed sem CMS. *Engine de SEO white-hat* que gera **centenas de páginas locais por código**, com `JSON-LD` completo e **IndexNow**.
 
-🦶 [leveze.com.br](https://leveze.com.br) · ⚖️ [elizangelamarcal.adv.br](https://elizangelamarcal.adv.br) · 👟 [newboot.grupomarfre.com.br](https://newboot.grupomarfre.com.br)
+🦶 [leveze.com.br](https://leveze.com.br) · ⚖️ [elizangelamarcal.adv.br](https://elizangelamarcal.adv.br) · 🧺 [newbootlavanderia.com.br](https://newbootlavanderia.com.br)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Serverless na edge
-Painéis e webhooks **sem VPS e sem banco relacional** — estado em **KV**. Prontuário eletrônico, contratos em HTML, bot de Telegram via cron, hardening de segurança (*timing-safe*, tokens de sessão) e webhook que **revalida o pagamento** antes de provisionar.
+Painéis e webhooks **sem VPS e sem banco relacional**: estado em **KV** e arquivos em **R2**. Prontuário eletrônico, contratos em HTML, bot de Telegram via cron, hardening de segurança (*timing-safe*, tokens de sessão) e webhook que **revalida o pagamento** antes de provisionar.
 
 </td>
 </tr>
@@ -131,13 +145,13 @@ Painéis e webhooks **sem VPS e sem banco relacional** — estado em **KV**. Pro
 <td width="50%" valign="top">
 
 ### 🔄 Automação lead → cliente
-Pipeline **Node.js + n8n** sem toque manual: prospecção WhatsApp → prévia → checkout → deploy → **suporte por IA** que classifica a intenção, edita a config e republica o site.
+Pipeline **Node.js + n8n**: prospecção por WhatsApp com **site-prévia personalizado por lead** (milhares gerados por código, servidos por um único projeto com domínio curinga) → checkout → deploy.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎬 Mídia & vídeo programático
-Carrosséis via **Playwright** (HTML→PNG), imagens com **sharp**, **VSLs em React/Remotion** com TTS, sincronização pela voz, *ducking* de áudio e render por GPU — 9:16/1:1/16:9 sem edição manual.
+Carrosséis via **Playwright** (HTML→PNG), imagens com **sharp**, **VSLs em React/Remotion** com TTS, sincronização pela voz, *ducking* de áudio e render por GPU: 9:16/1:1/16:9 sem edição manual.
 
 </td>
 </tr>
@@ -145,9 +159,9 @@ Carrosséis via **Playwright** (HTML→PNG), imagens com **sharp**, **VSLs em Re
 
 <br/>
 
-## 🗺️ Em destaque — Maps Scraper CRM
+## 🗺️ Em destaque: Maps Scraper CRM
 
-> **Extração de leads do Google Maps com qualificação automática e CRM integrado.** Software local, *self-hosted* — o lead generation que custaria assinatura mensal de SaaS, rodando na sua própria máquina.
+> **Extração de leads do Google Maps com qualificação automática e CRM integrado.** Software local, *self-hosted*: o lead generation que custaria assinatura mensal de SaaS, rodando na sua própria máquina.
 
 <table>
 <tr>
@@ -155,7 +169,7 @@ Carrosséis via **Playwright** (HTML→PNG), imagens com **sharp**, **VSLs em Re
 
 **🛡️ Anti-bloqueio sério**
 
-Stealth + humanização em 3 camadas: movimento de mouse por **curvas Bézier**, *timing* com distribuição estatística (não delays fixos) e *rate-limiting* — não é um bot óbvio.
+Stealth + humanização em 3 camadas: movimento de mouse por **curvas Bézier**, *timing* com distribuição estatística (não delays fixos) e *rate-limiting*. Não é um bot óbvio.
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -183,7 +197,7 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 
 <br/>
 
-🔒 _Código-fonte fechado (produto proprietário)._ &nbsp;·&nbsp; 💼 **Disponível para licenciamento** — [fale comigo](mailto:junio.alexander@hotmail.com?subject=Maps%20Scraper%20CRM)
+🔒 _Código-fonte fechado (produto proprietário)._ &nbsp;·&nbsp; 💼 **Disponível para licenciamento**: [fale comigo](mailto:contato@grupomarfre.com.br?subject=Maps%20Scraper%20CRM)
 
 </div>
 
@@ -199,28 +213,28 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 <th>Status</th>
 </tr>
 <tr>
-<td><b>🦶 Leveze — SEO Engine</b></td>
+<td><b>🩺 Painel Clínica</b></td>
+<td>Produto white-label serverless para clínicas: prontuário eletrônico, agenda, contratos em HTML, bot de Telegram e hardening de segurança. Uma instância por clínica, instalada em menos de 3 minutos. <a href="https://painel-clinica.grupomarfre.com.br">🔗 no ar</a></td>
+<td><code>Workers</code> <code>KV</code> <code>R2</code></td>
+<td>🟢 Produção</td>
+</tr>
+<tr>
+<td><b>🧺 Sistema New Boot</b></td>
+<td>Sistema de gestão de lavanderia com emissão de <b>NFS-e no padrão Nacional</b> (assinatura digital + mTLS) feita pela própria tela.</td>
+<td><code>PocketBase</code> <code>Node.js</code> <code>NFS-e</code></td>
+<td>🟢 Produção</td>
+</tr>
+<tr>
+<td><b>📊 Central de tráfego</b></td>
+<td>Coleta das contas Meta Ads e Google Ads a cada 30 minutos, painel por cliente, monitor semanal, relatório mensal e alertas.</td>
+<td><code>Workers</code> <code>Cron</code> <code>Graph API</code> <code>Google Ads API</code></td>
+<td>🟢 Produção</td>
+</tr>
+<tr>
+<td><b>🦶 Leveze, SEO Engine</b></td>
 <td>Engine de SEO programático: centenas de páginas locais geradas por código, com JSON-LD e IndexNow. <a href="https://leveze.com.br">🔗 no ar</a></td>
 <td><code>Node.js</code> <code>Cloudflare</code> <code>SEO</code></td>
 <td>🟢 Produção</td>
-</tr>
-<tr>
-<td><b>🩺 Painel Clínico</b></td>
-<td>Sistema serverless (Workers + KV): prontuário eletrônico, agenda, contratos em HTML, bot de Telegram e hardening de segurança.</td>
-<td><code>Workers</code> <code>KV</code> <code>Telegram</code></td>
-<td>🟢 Produção</td>
-</tr>
-<tr>
-<td><b>🤖 Recepcionista IA</b></td>
-<td>Agente conversacional com Claude <i>function calling</i> (consultar agenda, agendar, notificar) + WhatsApp e conformidade LGPD.</td>
-<td><code>Claude API</code> <code>Node.js</code> <code>n8n</code></td>
-<td>🟢 Produção</td>
-</tr>
-<tr>
-<td><b>📈 Daytrade Quant</b></td>
-<td>Trading algorítmico multi-ativo: backtester honesto, 36 testes, walk-forward + Monte Carlo, agentes LLM como camada estratégica.</td>
-<td><code>Python</code> <code>MQL5</code> <code>LangGraph</code></td>
-<td>🔬 P&D</td>
 </tr>
 <tr>
 <td><b>🎬 Pipeline de Vídeo</b></td>
@@ -234,6 +248,18 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 <td><code>TypeScript</code> <code>Playwright</code> <code>Docker</code></td>
 <td>🟢 Produção · 💼 Licenciável</td>
 </tr>
+<tr>
+<td><b>🤖 Recepcionista IA</b></td>
+<td>Agente conversacional com Claude <i>function calling</i> (consultar agenda, agendar, notificar) + WhatsApp e conformidade LGPD.</td>
+<td><code>Claude API</code> <code>Node.js</code> <code>n8n</code></td>
+<td>🔬 P&D</td>
+</tr>
+<tr>
+<td><b>📈 Daytrade Quant</b></td>
+<td>Trading algorítmico multi-ativo: backtester honesto, 36 testes, walk-forward + Monte Carlo, agentes LLM como camada estratégica.</td>
+<td><code>Python</code> <code>MQL5</code> <code>LangGraph</code></td>
+<td>🔬 P&D</td>
+</tr>
 </table>
 
 <sub>💡 Meu trabalho autoral vive majoritariamente em repositórios privados (operação de clientes). Acima estão os projetos com resultado público ou demonstrável.</sub>
@@ -242,19 +268,9 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 
 ## 🧪 Pesquisa & Laboratório (P&D)
 
-- **📈 Trading algorítmico quantitativo** — sistema multi-ativo (B3 / cripto / futuros) com **backtester honesto** (custos e slippage reais), **36 testes unitários**, validação **walk-forward OOS + Monte Carlo**, *kill switch* e estratégias em **Python + MQL5**. Agentes LLM como camada estratégica, não gatilho. Validei em **~160M ticks reais** — e a validação me impediu de operar estratégias que perderam. *Honestidade radical antes de qualquer dinheiro real.*
-- **🎯 IA aplicada a negócios** — agentes *done-for-you* (recepcionista IA, agentes de voz), com conformidade **LGPD** e arquitetura de memória.
-- **🔮 Agentes autônomos** — execução em mercados de previsão: ingestão WebSocket/REST → decisão LLM+Python → execução assinada (EIP-712).
-
-<br/>
-
-## 📊 Linguagens mais usadas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasalexx&layout=compact&hide_border=true&bg_color=191919&title_color=C15F3C&text_color=D4A27F&icon_color=f28482&langs_count=10" alt="Top languages" />
-
-</div>
+- **📈 Trading algorítmico quantitativo**: sistema multi-ativo (B3 / cripto / futuros) com **backtester honesto** (custos e slippage reais), **36 testes unitários**, validação **walk-forward OOS + Monte Carlo**, *kill switch* e estratégias em **Python + MQL5**. Agentes LLM como camada estratégica, não gatilho. Validei em **~160M ticks reais**, e a validação me impediu de operar estratégias que perderam. *Honestidade radical antes de qualquer dinheiro real.*
+- **🎯 IA aplicada a negócios**: agentes *done-for-you* (recepcionista IA, agentes de voz), com conformidade **LGPD** e arquitetura de memória.
+- **🔮 Agentes autônomos**: execução em mercados de previsão, com ingestão WebSocket/REST → decisão LLM+Python → execução assinada (EIP-712).
 
 <br/>
 
@@ -263,7 +279,7 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 ```text
 1. Simplicidade primeiro    → a solução mínima que resolve, sem over-engineering
 2. Mudanças cirúrgicas      → mexo só no que o objetivo exige
-3. Meta verificável         → "como eu sei que funcionou?" — valido antes de dar por pronto
+3. Meta verificável         → "como eu sei que funcionou?": valido antes de dar por pronto
 4. Segurança & honestidade  → secrets fora do código, e clareza entre produção e P&D
 ```
 
@@ -273,7 +289,7 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-C15F3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junio.alexander@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-C15F3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@grupomarfre.com.br)
 [![Site](https://img.shields.io/badge/grupomarfre.com.br-191919?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grupomarfre.com.br)
 [![Instagram](https://img.shields.io/badge/@marfregrupo-D4A27F?style=for-the-badge&logo=instagram&logoColor=191919)](https://instagram.com/marfregrupo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandermarcalfreitas)
@@ -284,7 +300,12 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 
 [![Leveze](https://img.shields.io/badge/leveze.com.br-C15F3C?style=flat-square&logo=googlechrome&logoColor=white)](https://leveze.com.br)
 [![Elizângela Marçal](https://img.shields.io/badge/elizangelamarcal.adv.br-191919?style=flat-square&logo=googlechrome&logoColor=white)](https://elizangelamarcal.adv.br)
-[![New Boot](https://img.shields.io/badge/newboot.grupomarfre.com.br-D4A27F?style=flat-square&logo=googlechrome&logoColor=191919)](https://newboot.grupomarfre.com.br)
+[![New Boot](https://img.shields.io/badge/newbootlavanderia.com.br-D4A27F?style=flat-square&logo=googlechrome&logoColor=191919)](https://newbootlavanderia.com.br)
+[![Mauro Melo](https://img.shields.io/badge/mauromelodr.com.br-C15F3C?style=flat-square&logo=googlechrome&logoColor=white)](https://mauromelodr.com.br)
+[![Marlon Melo](https://img.shields.io/badge/marlonmeloadv.com.br-191919?style=flat-square&logo=googlechrome&logoColor=white)](https://marlonmeloadv.com.br)
+[![GlobalMente](https://img.shields.io/badge/globalmenteidiomas.com.br-D4A27F?style=flat-square&logo=googlechrome&logoColor=191919)](https://globalmenteidiomas.com.br)
+[![Home Care Sorriso](https://img.shields.io/badge/homecaresorriso.com.br-C15F3C?style=flat-square&logo=googlechrome&logoColor=white)](https://homecaresorriso.com.br)
+[![Painel Clínica](https://img.shields.io/badge/painel--clinica.grupomarfre.com.br-191919?style=flat-square&logo=googlechrome&logoColor=white)](https://painel-clinica.grupomarfre.com.br)
 
 <sub>Construído na edge · IA na camada de decisão · Validado antes de dar por pronto</sub>
 
