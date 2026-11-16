@@ -83,7 +83,7 @@ Não me limito a *chamar uma API de LLM*: construo **camadas de decisão, ferram
 |---|---|
 | 🧠 **Framework operacional próprio** | Skills, memória em Markdown, hooks e gates determinísticos que rodam a operação inteira do Grupo Marfre com agentes de código |
 | 🔌 **Multi-provider por padrão** | Abstração sobre **Claude, OpenAI, DeepSeek, Gemini, Groq e Ollama local**, com degradação limpa quando falta chave |
-| 🎙️ **Pipelines de mídia por IA** | Roteiro por LLM → **TTS PT-BR** (ElevenLabs/edge-tts) → legendagem por **Whisper** → render por código |
+| 🎙️ **Pipelines de mídia por IA** | Roteiro por LLM → **TTS PT-BR com voz clonada** (ElevenLabs) → legendagem por **Whisper** → render por código; avatar falante com *lipsync* em teste |
 | 🧩 **Orquestração multi-agente** | Camada estratégica em **LangGraph** (analistas → bull/bear → trader → risco) que vira viés persistido em estado compartilhado |
 | 🛠️ **Agentes com _tool-use_** | Recepcionista IA em Node.js com **Claude function calling** (consultar agenda, agendar, notificar), com modo *mock* e handoff humano (LGPD) |
 
@@ -128,8 +128,8 @@ Não me limito a *chamar uma API de LLM*: construo **camadas de decisão, ferram
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web + SEO programático
-Sites estáticos na **edge da Cloudflare**, ~95+ no PageSpeed sem CMS. *Engine de SEO white-hat* que gera **centenas de páginas locais por código**, com `JSON-LD` completo e **IndexNow**.
+### 🌐 Web, SEO e GEO
+Sites estáticos na **edge da Cloudflare**, ~95+ no PageSpeed sem CMS. *Engine de SEO white-hat* que gera **centenas de páginas locais por código**, com `JSON-LD` completo e **IndexNow**. Sites legíveis por IA (`llms.txt`) e medição datada de quem aparece nas respostas do **ChatGPT, Gemini e Perplexity**.
 
 🦶 [leveze.com.br](https://leveze.com.br) · ⚖️ [elizangelamarcal.adv.br](https://elizangelamarcal.adv.br) · 🧺 [newbootlavanderia.com.br](https://newbootlavanderia.com.br)
 
@@ -167,9 +167,9 @@ Carrosséis via **Playwright** (HTML→PNG), imagens com **sharp**, **VSLs em Re
 <tr>
 <td width="33%" valign="top" align="center">
 
-**🛡️ Anti-bloqueio sério**
+**🛡️ Coleta resiliente**
 
-Stealth + humanização em 3 camadas: movimento de mouse por **curvas Bézier**, *timing* com distribuição estatística (não delays fixos) e *rate-limiting*. Não é um bot óbvio.
+Ritmo controlado com *rate-limiting* e intervalos variáveis, pensado para sessões longas sem sobrecarregar a fonte.
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -191,13 +191,13 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 
 <div align="center">
 
-`TypeScript` · `Playwright + Stealth` · `BullMQ + Redis` · `PostgreSQL + Drizzle` · `Docker` · `CRM web integrado`
+`TypeScript` · `Playwright` · `BullMQ + Redis` · `PostgreSQL + Drizzle` · `Docker` · `CRM web integrado`
 
 **🟢 Produção · ~2.000 linhas · arquitetura em 4 serviços · pipeline scrape → enrich → qualify → export**
 
 <br/>
 
-🔒 _Código-fonte fechado (produto proprietário)._ &nbsp;·&nbsp; 💼 **Disponível para licenciamento**: [fale comigo](mailto:contato@grupomarfre.com.br?subject=Maps%20Scraper%20CRM)
+🔒 _Código-fonte fechado (produto proprietário)._
 
 </div>
 
@@ -244,9 +244,9 @@ Enriquecimento web multi-fonte (telefone E.164, e-mail, **detecção de WhatsApp
 </tr>
 <tr>
 <td><b>🗺️ Maps Scraper CRM</b></td>
-<td>Extração de leads do Google Maps com anti-bloqueio, grid geográfico, enriquecimento web e qualificação. <i>Produto proprietário.</i></td>
+<td>Extração de leads do Google Maps com grid geográfico, enriquecimento web e qualificação. <i>Produto proprietário.</i></td>
 <td><code>TypeScript</code> <code>Playwright</code> <code>Docker</code></td>
-<td>🟢 Produção · 💼 Licenciável</td>
+<td>🟢 Produção</td>
 </tr>
 <tr>
 <td><b>🤖 Recepcionista IA</b></td>
