@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="450" viewBox="0 0 880 450" role="img" aria-labelledby="t d">
+<title id="t">Atividade no GitHub nos últimos 12 meses</title>
+<desc id="d">8 contribuições, 3 dias ativos, sequência atual de 1 dias, maior sequência de 1 dias. Por mês: jun 4, jul 0, ago 0, set 0, out 0, nov 4. Por dia da semana: seg 3, ter 1, qua 4, qui 0, sex 0, sáb 0, dom 0.</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="879" height="449" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="32" y="46" font-size="18" font-weight="600" fill="#1f2328">Atividade nos últimos 12 meses</text>
+<text x="848" y="46" font-size="12" text-anchor="end" fill="#59636e">atualizado em 16/11/2026</text>
+<text x="32" y="118" font-size="48" font-weight="600" fill="#1f2328">8</text>
+<text x="32" y="142" font-size="13" fill="#59636e">contribuições</text>
+<text x="300" y="118" font-size="28" font-weight="600" fill="#1f2328">3</text>
+<text x="300" y="142" font-size="13" fill="#59636e">dias ativos de 351</text>
+<text x="490" y="118" font-size="28" font-weight="600" fill="#1f2328">1 dia</text>
+<text x="490" y="142" font-size="13" fill="#59636e">sequência atual</text>
+<text x="680" y="118" font-size="28" font-weight="600" fill="#1f2328">1 dias</text>
+<text x="680" y="142" font-size="13" fill="#59636e">maior sequência</text>
+<text x="32" y="210" font-size="13" font-weight="600" fill="#59636e">Por mês</text>
+<line x1="66" x2="536" y1="392" y2="392" stroke="#e6eaef" stroke-width="1"/>
+<text x="58" y="396" font-size="11" text-anchor="end" fill="#59636e" style="font-variant-numeric:tabular-nums">0</text>
+<line x1="66" x2="536" y1="314" y2="314" stroke="#e6eaef" stroke-width="1"/>
+<text x="58" y="318" font-size="11" text-anchor="end" fill="#59636e" style="font-variant-numeric:tabular-nums">2</text>
+<line x1="66" x2="536" y1="236" y2="236" stroke="#e6eaef" stroke-width="1"/>
+<text x="58" y="240" font-size="11" text-anchor="end" fill="#59636e" style="font-variant-numeric:tabular-nums">4</text>
+<path d="M93.16666666666666,392V240Q93.16666666666666,236 97.16666666666666,236H113.16666666666666Q117.16666666666666,236 117.16666666666666,240V392Z" fill="#C15F3C"/>
+<text x="105.16666666666666" y="410" font-size="11" text-anchor="middle" fill="#59636e">jun</text>
+<text x="105.16666666666666" y="230" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">4</text>
+<path d="" fill="#C15F3C"/>
+<text x="183.49999999999997" y="410" font-size="11" text-anchor="middle" fill="#59636e">jul</text>
+<path d="" fill="#C15F3C"/>
+<text x="261.8333333333333" y="410" font-size="11" text-anchor="middle" fill="#59636e">ago</text>
+<path d="" fill="#C15F3C"/>
+<text x="340.1666666666667" y="410" font-size="11" text-anchor="middle" fill="#59636e">set</text>
+<path d="" fill="#C15F3C"/>
+<text x="418.5" y="410" font-size="11" text-anchor="middle" fill="#59636e">out</text>
+<path d="M484.8333333333333,392V240Q484.8333333333333,236 488.8333333333333,236H504.8333333333333Q508.8333333333333,236 508.8333333333333,240V392Z" fill="#C15F3C"/>
+<text x="496.8333333333333" y="410" font-size="11" text-anchor="middle" fill="#59636e">nov*</text>
+<text x="496.8333333333333" y="230" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">4</text>
+<text x="66" y="434" font-size="11" fill="#59636e">* mês em curso</text>
+<text x="580" y="210" font-size="13" font-weight="600" fill="#59636e">Por dia da semana</text>
+<text x="580" y="244" font-size="12" fill="#59636e">seg</text>
+<line x1="616" x2="616" y1="228" y2="252" stroke="#e6eaef" stroke-width="1"/>
+<path d="M616,232H753Q757,232 757,236V244Q757,248 753,248H616Z" fill="#C15F3C"/>
+<text x="763" y="244" font-size="11" fill="#1f2328" style="font-variant-numeric:tabular-nums">3</text>
+<text x="580" y="270" font-size="12" fill="#59636e">ter</text>
+<line x1="616" x2="616" y1="254" y2="278" stroke="#e6eaef" stroke-width="1"/>
+<path d="M616,258H659Q663,258 663,262V270Q663,274 659,274H616Z" fill="#C15F3C"/>
+<text x="669" y="270" font-size="11" fill="#1f2328" style="font-variant-numeric:tabular-nums">1</text>
+<text x="580" y="296" font-size="12" fill="#59636e">qua</text>
+<line x1="616" x2="616" y1="280" y2="304" stroke="#e6eaef" stroke-width="1"/>
+<path d="M616,284H800Q804,284 804,288V296Q804,300 800,300H616Z" fill="#C15F3C"/>
+<text x="810" y="296" font-size="11" fill="#1f2328" style="font-variant-numeric:tabular-nums">4</text>
+<text x="580" y="322" font-size="12" fill="#59636e">qui</text>
+<line x1="616" x2="616" y1="306" y2="330" stroke="#e6eaef" stroke-width="1"/>
+<path d="" fill="#C15F3C"/>
+<text x="622" y="322" font-size="11" fill="#1f2328" style="font-variant-numeric:tabular-nums">0</text>
+<text x="580" y="348" font-size="12" fill="#59636e">sex</text>
+<line x1="616" x2="616" y1="332" y2="356" stroke="#e6eaef" stroke-width="1"/>
+<path d="" fill="#C15F3C"/>
+<text x="622" y="348" font-size="11" fill="#1f2328" style="font-variant-numeric:tabular-nums">0</text>
+<text x="580" y="374" font-size="12" fill="#59636e">sáb</text>
+<line x1="616" x2="616" y1="358" y2="382" stroke="#e6eaef" stroke-width="1"/>
+<path d="" fill="#C15F3C"/>
+<text x="622" y="374" font-size="11" fill="#1f2328" style="font-variant-numeric:tabular-nums">0</text>
+<text x="580" y="400" font-size="12" fill="#59636e">dom</text>
+<line x1="616" x2="616" y1="384" y2="408" stroke="#e6eaef" stroke-width="1"/>
+<path d="" fill="#C15F3C"/>
+<text x="622" y="400" font-size="11" fill="#1f2328" style="font-variant-numeric:tabular-nums">0</text>
+</g></svg>
